@@ -71,6 +71,7 @@ namespace SCOToolBox
                     0xBE6540, /* 1.0.6.0 */
                     0xBE7540, /* 1.0.7.0 */
                     0xC95FD8, /* 1.0.8.0, same fore RUS/JPN EXEs */
+                    0xC5B33C, /* 1.2.0.43 */
                     0xC5B73C, /* 1.2.0.59, Steam/CE (Complete Edition) */
                     //Russian EXEs
                     0xB5B65C, /* 1.0.0.1 */
